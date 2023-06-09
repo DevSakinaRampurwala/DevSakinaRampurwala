@@ -1,4 +1,5 @@
-[![MasterHead](https://distantjob.com/wp-content/uploads/2021/07/Hire-a-Salesforce-Developer.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdistantjob.com%2Fblog%2Fhire-salesforce-developer%2F&psig=AOvVaw3aI63hHMjHCqtSIzqVIdbn&ust=1686393559053000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDb7-z_tf8CFQAAAAAdAAAAABAE) <h1 align="center">Hi 👋, I'm Sakina</h1>
+<p align=“center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt3BYQ-i7Mh5SN7uTNNAg4oCVI3xudLTObg&usqp=CAU" width='200'/> </p> 
+<h1 align="center">Hi 👋, I'm Sakina</h1></p>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsakinarampurwala&label=Profile%20views&color=0e75b6&style=flat" alt="devsakinarampurwala" /> </p>
