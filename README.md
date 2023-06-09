@@ -1,4 +1,3 @@
-<p align=“center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt3BYQ-i7Mh5SN7uTNNAg4oCVI3xudLTObg&usqp=CAU" width='200'/> </p> 
 <h1 align="center">Hi 👋, I'm Sakina</h1></p>
 <h3 align="center">A passionate Salesforce developer from India</h3>
 
